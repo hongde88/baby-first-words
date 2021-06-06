@@ -24,6 +24,7 @@ Fruit screen
 ![image](https://user-images.githubusercontent.com/7309086/120937212-4358df00-c6da-11eb-9512-366e78ba8fb9.png)
 
 Info, feedback and request are located at the top right corner
+
 ![image](https://user-images.githubusercontent.com/7309086/120937302-d09c3380-c6da-11eb-9cb9-97985dd9c7d2.png)
 
 ![image](https://user-images.githubusercontent.com/7309086/120937236-6be0d900-c6da-11eb-93c1-1f8553591b8e.png)
