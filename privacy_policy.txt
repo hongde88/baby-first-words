@@ -1,5 +1,5 @@
 Privacy policy for users of Baby First Words Android app:
 1. It does not contain any ads.
-2. It does not require any permissions.
+2. It does not require any permissions other than internet in order to use the interactive feedback tool within the app.
 3. It does not use any user information or data.
 4. It is good for children under the age of 13.
